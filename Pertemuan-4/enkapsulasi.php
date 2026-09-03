@@ -16,6 +16,6 @@ class Mahasiswa{
 $mhs = new Mahasiswa();
 $mhs->setNim('H1101221059');
 echo $mhs->getNim();
-echo "";
+echo "\n";
 $mhs->name = 'Andreanus Eko Putra';
 echo $mhs->name;
