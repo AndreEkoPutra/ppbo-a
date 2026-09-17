@@ -18,12 +18,12 @@ Seluruh materi, contoh implementasi, latihan, serta hasil praktikum akan dikemba
 
 | Pertemuan | Materi |
 |:---:|---|
-| `01` | **Orientasi, Fondasi PHP, dan Pengenalan Paradigma PBO** Siap | 
-| `02` | **Pondasi PHP: Variabel, Tipe Data, dan Fungsi** Siap | 
-| `03` | **Konsep Inti PBO: Class, Objek, Properti, dan Method** Siap | 
-| `04` | **Pilar PBO 1: Enkapsulasi (Pembungkusan)** Siap | 
-| `05` | **Pilar PBO 2: Pewarisan (Inheritance) dan Trait** Siap | 
-| `06` | **Pilar PBO 3 & 4: Abstraksi dan Polimorfisme** |
+| `01` | **Orientasi, Fondasi PHP, dan Pengenalan Paradigma PBO** SIAP | 
+| `02` | **Pondasi PHP: Variabel, Tipe Data, dan Fungsi** SIAP | 
+| `03` | **Konsep Inti PBO: Class, Objek, Properti, dan Method** SIAP | 
+| `04` | **Pilar PBO 1: Enkapsulasi (Pembungkusan)** SIAP | 
+| `05` | **Pilar PBO 2: Pewarisan (Inheritance) dan Trait** SIAP | 
+| `06` | **Pilar PBO 3 & 4: Abstraksi dan Polimorfisme** SIAP |
 | `07` | **Menghubungkan Objek ke Database (PDO)** |
 | `08` | **Manajemen Kode Modern: Namespace, Composer, dan Exception** |
 | `09` | **Prinsip Desain: UML dan SOLID** |
